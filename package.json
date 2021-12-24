@@ -1,0 +1,21 @@
+{
+  "name": "first-npm",
+  "version": "1.0.0",
+  "description": "this package will help us to learn the npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "test",
+    "first",
+    "project"
+  ],
+  "author": "imene",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0"
+  }
+}
